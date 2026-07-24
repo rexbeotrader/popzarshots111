@@ -1,0 +1,20 @@
+{
+  "matching_urls": [
+    "https://popzar33.com/WinGo/WinGo_5M",
+    "https://popzar33.com/WinGo/WinGo_30S",
+    "https://popzar33.com/WinGo/WinGo_1M",
+    "https://popzar33.com/WinGo/WinGo_3M"
+  ],
+  "deposit_url": "https://popzar33.com/wallet/recharge",
+  "login_url": "https://popzar33.com/login",
+  "register_url": "https://popzar33.com/register?inviteCode=28SU4BN",
+  "telegram_url": "https://whatsapp.com/channel/0029VbCeSqlBA1esEp9Z2g02",
+  "home_url": "https://popzar33.com/",
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["3456778910"],
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
+  "home_audio": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/newaccountregistered.mp3",
+  "audio_deposit_failed": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositfailed.mp3",
+  "audio_deposit_verified": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/matchingurldepositverified.mp3"
+}
